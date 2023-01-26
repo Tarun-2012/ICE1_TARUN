@@ -9,6 +9,7 @@ package exercise1;
  * @author Paul Bonenfant Jan 25, 2022 
  fetch + merge
  hello world
+ * branch code
  */
 public class CardTrick {
     
