@@ -9,6 +9,7 @@
  * add your name as a modifier.
  * @author dancye
  * @author Paul Bonenfant May 2020
+ modifier as tarun
  */
 public class Card {
 
